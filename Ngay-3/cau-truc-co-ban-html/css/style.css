@@ -1,0 +1,16 @@
+p {
+    text-align: center;
+}
+
+*{
+    list-style: none;
+}
+blockquote{
+    text-align: center;
+    padding: 20px;
+    border: 4px solid black;
+    border-top-style: dotted;
+    border-bottom-style: dotted;
+    background-color: cadetblue;
+    width: 200px;
+}
